@@ -1,8 +1,8 @@
 <!-- 🔥 DevOps Banner -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://images.pexels.com/photos/3785931/pexels-photo-3785931.jpeg" alt="DevOps Banner" />
-</p>
+</p> -->
 
 <h1 align="center">👨‍💻 Abdul Majeed Raiyan</h1>
 <h3 align="center">🚀 DevOps Engineer | Kubernetes | Cloud | CI/CD</h3>
