@@ -1,7 +1,7 @@
 <!-- 🔥 DevOps Banner -->
 
 <p align="center">
-  <img src="https://your-image-link/banner.png" alt="DevOps Banner" />
+  <img src="https://images.pexels.com/photos/3785931/pexels-photo-3785931.jpeg" alt="DevOps Banner" />
 </p>
 
 <h1 align="center">👨‍💻 Abdul Majeed Raiyan</h1>
