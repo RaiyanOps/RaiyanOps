@@ -40,9 +40,9 @@
 
 ### 🔹 National Payment System Strategy (NPSS)
 
-<p>
-  <img src="https://your-image-link/npss-architecture.png" width="500"/>
-</p>
+<!-- <p>
+  <img src="https://your-image-link/npss-architecture." width="500"/>
+</p> -->
 
 * Built **highly scalable & secure infrastructure**
 * Integrated with **8+ banking systems**
@@ -52,9 +52,9 @@
 
 ### 🔹 Kubernetes (EKS) Deployment
 
-<p>
+<!-- <p>
   <img src="https://your-image-link/k8s-eks.png" width="500"/>
-</p>
+</p> -->
 
 * Managed **EKS clusters with microservices**
 * Used **Helm for deployments**
@@ -64,9 +64,9 @@
 
 ### 🔹 CI/CD Automation
 
-<p>
-  <img src="https://your-image-link/cicd.png" width="500"/>
-</p>
+<!-- <p>
+  <img src="https://your-image-link/cicd." width="500"/>
+</p> -->
 
 * Azure DevOps pipelines implementation
 * Automated build, test & deployment
@@ -76,9 +76,9 @@
 
 ### 🔹 Private Docker Registry
 
-<p>
-  <img src="https://your-image-link/docker-registry.png" width="500"/>
-</p>
+<!-- <p>
+  <img src="https://your-image-link/docker-registry." width="500"/>
+</p> -->
 
 * Built custom Docker registry
 * Secure image storage & access
