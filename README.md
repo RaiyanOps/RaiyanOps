@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,git,linux,nginx,redis,postgres" />
